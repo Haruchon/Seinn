@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6169832694372186339
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6169832694372186337}
+  - component: {fileID: 6169832694372186338}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6169832694372186337
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6169832694372186339}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 434.9801, y: 170.49902, z: 4.75}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6169832694372186338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6169832694372186339}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f369b8b1fb4e77145a0b0a4e09ca1ff5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  master: {fileID: 24300002, guid: add0e1927e69af34a805afa576f69145, type: 2}
+  sfx: {fileID: 243022766914657748, guid: add0e1927e69af34a805afa576f69145, type: 2}
+  background: {fileID: 243104810993203584, guid: add0e1927e69af34a805afa576f69145,
+    type: 2}
+  sounds:
+  - name: BackgroundMusic
+    clip: {fileID: 8300000, guid: 0294fb665ac59d548b10aabdab40a33c, type: 3}
+    volume: 1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 243104810993203584, guid: add0e1927e69af34a805afa576f69145,
+      type: 2}
+    source: {fileID: 0}
+  - name: MenuMusic
+    clip: {fileID: 8300000, guid: 7772a92be3890b749ae4d76feb1b93a0, type: 3}
+    volume: 1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 1
+    mixerGroup: {fileID: 243104810993203584, guid: add0e1927e69af34a805afa576f69145,
+      type: 2}
+    source: {fileID: 0}
+  - name: HitSound
+    clip: {fileID: 8300000, guid: 659e9115a9317a24095d7c484220a488, type: 3}
+    volume: 1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: 243022766914657748, guid: add0e1927e69af34a805afa576f69145,
+      type: 2}
+    source: {fileID: 0}

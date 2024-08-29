@@ -1,0 +1,1122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2024-08-21T16:45:40.795-05:00
+  initializedAtString: 2024-08-21T15:03:19.857-05:00
+  entries:
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Assets\Scripts\MainMenu.cs
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Assets\Scripts\MainMenu.cs
+    projectPath: Assets\Scripts\MainMenu.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\EditorUserBuildSettings.asset
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\LastBuild.buildreport
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\boot.config
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\boot.config
+    projectPath: Library\PlayerDataCache\Win64\Data\boot.config
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\level0
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\level0
+    projectPath: Library\PlayerDataCache\Win64\Data\level0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\level1
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\level1
+    projectPath: Library\PlayerDataCache\Win64\Data\level1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\Mono.Security.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\Mono.Security.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Mono.Security.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\mscorlib.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\mscorlib.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\mscorlib.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\netstandard.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\netstandard.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\netstandard.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.ComponentModel.Composition.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.ComponentModel.Composition.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.ComponentModel.Composition.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Configuration.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Configuration.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Configuration.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Core.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Core.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Core.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Data.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Data.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Data.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Diagnostics.StackTrace.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Diagnostics.StackTrace.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Diagnostics.StackTrace.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Drawing.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Drawing.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Drawing.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.EnterpriseServices.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.EnterpriseServices.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.EnterpriseServices.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Globalization.Extensions.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Globalization.Extensions.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Globalization.Extensions.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.IO.Compression.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.IO.Compression.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.IO.Compression.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.IO.Compression.FileSystem.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.IO.Compression.FileSystem.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Net.Http.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Net.Http.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Net.Http.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Numerics.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Numerics.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Numerics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Runtime.Serialization.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Runtime.Serialization.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Runtime.Serialization.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Runtime.Serialization.Xml.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Runtime.Serialization.Xml.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Runtime.Serialization.Xml.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.ServiceModel.Internals.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.ServiceModel.Internals.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.ServiceModel.Internals.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Transactions.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Transactions.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Transactions.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Xml.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Xml.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Xml.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Xml.Linq.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Xml.Linq.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Xml.Linq.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Xml.XPath.XDocument.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\System.Xml.XPath.XDocument.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Xml.XPath.XDocument.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Networking.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Networking.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Networking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Timeline.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Timeline.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.xml
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.xml
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\resources.assets
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\resources.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\resources.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\resources.assets.resS
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\resources.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\resources.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+    projectPath: Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+    projectPath: Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe10.log
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe10.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe11.log
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe11.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe9.log
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\shadercompiler-UnityShaderCompiler.exe9.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\StateCache\Hierarchy\8decd8-mainStage.json
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\Library\StateCache\Hierarchy\8decd8-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\8decd8-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\ProjectSettings\GraphicsSettings.asset
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\ProjectSettings\UnityConnectSettings.asset
+    fullPath: D:\Tesis\seinn\Proyectos Unity\Seinn\Prototipos\Prototipos Seinn\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

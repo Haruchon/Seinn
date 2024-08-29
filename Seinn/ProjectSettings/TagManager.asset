@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - InteractableObject
+  - Enemy
+  - Projectile
+  - Number
+  - EnemyHealthUI
+  - DialogueBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3642565027
+    locked: 0
+  - name: Mapa
+    uniqueID: 1100079703
+    locked: 0
+  - name: AdornosBack
+    uniqueID: 465869777
+    locked: 0
+  - name: AdornosFront
+    uniqueID: 1545587225
+    locked: 0
+  - name: Player
+    uniqueID: 2459072309
+    locked: 0
+  - name: Foreground
+    uniqueID: 2291635417
+    locked: 0
